@@ -1,0 +1,14 @@
+{
+  "name": "matching-customers",
+  "version": "1.0.0",
+  "description": "Find customers within 100km or Dublin",
+  "main": "matching-customers.js",
+  "scripts": {
+    "test": "mocha matching-customers-test.js"
+  },
+  "author": "Amal Antony",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}

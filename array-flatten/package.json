@@ -1,0 +1,14 @@
+{
+  "name": "flatten-array",
+  "version": "1.0.0",
+  "description": "Flatten nested arrays.",
+  "main": "array-flatten.js",
+  "scripts": {
+    "test": "mocha array-flatten-test.js"
+  },
+  "author": "Amal Antony",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
